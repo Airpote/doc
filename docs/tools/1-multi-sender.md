@@ -7,9 +7,9 @@ sidebar_custom_props:
 
 Send tokens from/to multiple wallets in bulk transactions. Perfect for airdrops, distributions, and multi-wallet operations.
 
-## YouTube Tutorial
+## [YouTube Tutorial](https://www.youtube.com/watch?v=fZylFVNV7yc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZylFVNV7yc" title="Multi Sender Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZylFVNV7yc" title="Multi Sender Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ## Features
 - Send from multiple wallets (group of wallets) to a single wallet.

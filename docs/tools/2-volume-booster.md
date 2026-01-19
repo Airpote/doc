@@ -7,11 +7,11 @@ sidebar_custom_props:
 
 Boost the volume of a DEX pair through automated buy and sell cycles. Maintain liquidity and trading activity for your tokens.
 
-## YouTube Tutorials
+## [YouTube Tutorials](https://www.youtube.com/watch?v=Yc7gJiR-QPs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yc7gJiR-QPs" title="Volume Booster Tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yc7gJiR-QPs" title="Volume Booster Tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dEPY_hteI8E" title="Volume Booster Tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEPY_hteI8E" title="Volume Booster Tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ## Supported dexes
 Popular DEXs and their forks are supported:

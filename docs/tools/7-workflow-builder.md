@@ -17,9 +17,9 @@ Features include:
 - RPC Integration: On-chain data queries
 - Social Automation: Twitter and Telegram integration
 
-## YouTube Tutorial Intro to our workflow builder
+## [YouTube Tutorial Intro to our workflow builder](https://www.youtube.com/watch?v=RZui-M-5LRo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZui-M-5LRo" title="Workflow Builder Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZui-M-5LRo" title="Workflow Builder Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ## Adding Connections
 
@@ -54,9 +54,9 @@ Connect Telegram bots to automate messaging, channel posting, and group manageme
 3. Copy the bot token
 4. Add the token to your Workflow Builder connections
 
-## YouTube Tutorial on How to add a telegram bot connection to our workflow builder
+## [YouTube Tutorial on How to add a telegram bot connection to our workflow builder](https://www.youtube.com/watch?v=RZui-M-5LRo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZui-M-5LRo" title="Telegram Connection Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RZui-M-5LRo" title="Telegram Connection Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ### 🔗 RPC Connection
 

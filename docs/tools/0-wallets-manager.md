@@ -7,9 +7,9 @@ sidebar_custom_props:
 
 Fully manage multiple wallets. Create, import, and organize your wallet groups for efficient DeFi operations.
 
-## YouTube Tutorial
+## [YouTube Tutorial](https://www.youtube.com/watch?v=DC0M8EpQNxw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DC0M8EpQNxw" title="Wallets Manager Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DC0M8EpQNxw" title="Wallets Manager Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 
 ## Features
 - Generate wallets in bulk.
