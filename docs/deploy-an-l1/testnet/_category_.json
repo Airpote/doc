@@ -1,0 +1,5 @@
+{
+  "label": "Testnet",
+  "position": 2,
+  "description": "Deploy a testnet Avalanche L1 for development and testing with AmiChain"
+}
