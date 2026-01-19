@@ -27,14 +27,20 @@ Testnet packages include:
 
 | Spec | AmiChain | AvaCloud |
 |------|----------|----------|
-| Model | Managed | Self-service |
-| CPU | 1 CPU (Skylake, IBRS) | Customizable |
-| RAM | 2 GiB | Customizable |
-| Disk Space | 60 GiB | Customizable |
-| Pricing | $49/month | Free trial (5 days), then $999+ |
-| Block Explorer | Included | Custom |
+| Model | Managed | Self-service (managed infrastructure) |
+| Validators | 1 | 2 Testnet validators |
+| CPU | 1 CPU (Skylake, IBRS) | Not specified |
+| RAM | 2 GiB | Not specified |
+| Disk Space | 60 GiB | Not specified |
+| RPC Endpoints | 1 | 1 Testnet RPC + 1 Developer RPC |
+| Pricing | $49/month | $50/mo (discounted, reg. $999) |
+| Storage Fees | Included | Chain $0.12/GB, Explorer $1.50/GB |
+| Block Explorer | Included | Included |
 | Faucet | Included | Included |
-| Support | Included | General |
+| Support | Included | Technical support |
+| Additional Features | Monitoring, Custom alerting | Multiple team members, Blockchain data ingestion, Integrations, Analytics dashboard, Managed upgrades |
+
+*Discount criteria for AvaCloud: First 6 months of subscription if ≥100 transactions per month. Grace period: 3 months. Reversion to $999/month if not met.
 
 ## Getting Started
 
