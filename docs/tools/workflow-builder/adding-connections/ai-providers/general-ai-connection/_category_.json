@@ -1,5 +1,5 @@
 {
-  "label": "General AI Connection",
+  "label": "Anthropic Claude Connection",
   "position": 3,
   "link": {
     "type": "doc",

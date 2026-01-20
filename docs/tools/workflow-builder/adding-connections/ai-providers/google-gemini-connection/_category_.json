@@ -1,0 +1,8 @@
+{
+  "label": "Google Gemini Connection",
+  "position": 4,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/ai-providers/google-gemini-connection/index"
+  }
+}

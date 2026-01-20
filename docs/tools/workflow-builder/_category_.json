@@ -2,8 +2,7 @@
   "label": "Workflow Builder",
   "position": 7,
   "link": {
-    "type": "generated-index",
-    "slug": "/tools/workflow-builder",
-    "description": "Visual workflow automation tool for complex DeFi operations."
+    "type": "doc",
+    "id": "tools/workflow-builder/index"
   }
 }
