@@ -10,11 +10,11 @@ Our AmiChain Managed L1s offer provides a comprehensive solution for organizatio
 
 | Nodes | 1 validator node | 5 validator nodes (package) |
 |-------|------------------|-----------------------------|
-| Validator specs | 3 CPUs / 8 GB RAM / 1TB SSD | 3 CPUs / 8 GB RAM / 1TB SSD per node |
+| Validator specs | 3 CPUs / 8 GiB RAM / 1TB SSD | 3 CPUs / 8 GiB RAM / 1TB SSD main node and additional node 1 CPU Intel Core Processor (Skylake, IBRS) / 2 GiB RAM /  100 GiB Disk Space)  |
 | Use Case | Basic L1 deployment | Production-ready with extras |
 | Price / mo | **$200** | **$399** (includes white label dapp, ICM-relayer, Tesseract bridge setup) |
 
-Additional nodes: **$49** each (1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space).
+Additional nodes: **$49** each (1 CPU Intel Core Processor (Skylake, IBRS), 2 GiB RAM, 100 GiB Disk Space).
 
 ## Included Features
 
