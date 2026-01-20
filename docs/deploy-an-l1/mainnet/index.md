@@ -34,19 +34,21 @@ Our team can also help you set up additional services for your L1.
 
 Contact us to discuss your needs.
 
-## AmiChain vs AvaCloud
+## AmiChain vs Competitors
 
-| Spec | AmiChain | AvaCloud |
-|------|----------|----------|
-| Model | Managed | Self-service |
-| CPU | 3 CPUs (Skylake, IBRS) | Customizable |
-| RAM | 7.7 GiB | Customizable |
-| Disk Space | 1TB | Customizable |
-| Pricing (1 node) | $200 | $999+ (Builder tier) |
-| Additional Nodes | $49 | Included in tiers |
-| Block Explorer | White label included | Custom |
-| Bridges | ICM-relayer + Tesseract setup | Interoperability tools |
-| Support | 24/7 | General (Enterprise for priority) |
+| Spec | AmiChain | AvaCloud | Ash (Suzaku) | Zeeve |
+|------|----------|----------|--------------|-------|
+| Model | Managed | Self-service | Managed | Managed |
+| CPU | 3 CPUs (Skylake, IBRS) | Customizable | 4 vCPUs | Not specified |
+| RAM | 7.7 GiB | Customizable | 16 GiB | Not specified |
+| Disk Space | 1TB | Customizable | 1TB SSD | Not specified |
+| Validators | 1 or 5 | Customizable | 5 | 5 |
+| Pricing (5 nodes) | $399 | $999+ (Builder tier) | $999 | $1995 ($995/year with 10k tx) |
+| Additional Nodes | $49 | Included in tiers | On request | $149 |
+| Block Explorer | White label included | Custom | Blockscout | TraceHawk Growth Plan (Blockscout) |
+| Bridges | ICM-relayer + Tesseract setup | Interoperability tools | ICM bridge | Native Bridge (+$249/mo for ICM relayer) |
+| Support | 24/7 | General (Enterprise for priority) | 24/7 monitoring | 24x7 technical support |
+| RPC Endpoints | 1 | Customizable | 1 public | 2 RPC + 1 Dev |
 
 ## Getting Started
 
