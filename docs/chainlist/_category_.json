@@ -4,6 +4,6 @@
   "link": {
     "type": "generated-index",
     "slug": "/chainlist",
-    "description": "A list of EVM-based chains with icons and connection info. Visit https://chainlist.amichain.org/"
+    "description": "A list of EVM-based chains with icons and connection info. Visit [chainlist.amichain.org](https://chainlist.amichain.org/)"
   }
 }
