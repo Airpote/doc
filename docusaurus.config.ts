@@ -34,6 +34,11 @@ const config: Config = {
 	],
 
 	themeConfig: {
+		image: 'img/og_image.jpg',
+		metadata: [
+			{name: 'description', content: 'Amichain Documentation - Comprehensive guides for deploying L1s, using tools like Wallets Manager, multi-sender, and bridging. Build on Amichain.'},
+			{property: 'og:description', content: 'Amichain Documentation - Comprehensive guides for deploying L1s, using tools like Wallets Manager, multi-sender, and bridging. Build on Amichain.'}
+		],
 		navbar: {
 			title: 'Amichain Doc',
 			logo: {
