@@ -10,7 +10,7 @@ Deploy a testnet L1 for development and testing with AmiChain's managed service.
 |-------|------------------|
 | Validator specs | 1 CPU / 2 GiB RAM / 60 GiB SSD |
 | Use Case | Development and testing |
-| Price / mo | $49 |
+| Price / mo | **$49** |
 
 ## Included Features
 
@@ -33,7 +33,7 @@ Testnet packages include:
 | RAM | 2 GiB | Not specified | 4 GiB | Not specified |
 | Disk Space | 60 GiB SSD | Not specified | 100GB SSD | Not specified |
 | RPC Endpoints | 1 | 1 Testnet RPC + 1 Developer RPC | 1 public | 1 RPC + 1 Dev RPC |
-| Pricing | $49/month | $50/mo (discounted, reg. $999) | $49 | $550 ($50/mo for 6 months with 1000 tx) |
+| Pricing | **$49/month** | $50/mo (discounted, reg. $999) | $49 | $550 ($50/mo for 6 months with 1000 tx) |
 | Storage Fees | Included | Chain $0.12/GB, Explorer $1.50/GB | Included | Included |
 | Block Explorer | Included | Included | Blockscout | TraceHawk Startup Plan (Blockscout) |
 | Faucet | Included | Included | Configurable | Included |
