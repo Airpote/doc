@@ -78,7 +78,7 @@ const config: Config = {
 						},
 						{
 							label: 'Discord',
-							href: 'https://discord.com/invite/zxkTcFEE4U',
+							href: 'https://discord.amichain.org/',
 						},
 					],
 				},
