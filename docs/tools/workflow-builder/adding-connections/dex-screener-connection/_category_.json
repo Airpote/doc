@@ -1,0 +1,8 @@
+{
+  "label": "📊 DEX Screener Connection",
+  "position": 4,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/dex-screener-connection/index"
+  }
+}

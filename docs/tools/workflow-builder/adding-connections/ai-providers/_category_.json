@@ -1,0 +1,9 @@
+{
+  "label": "🤖 AI Provider Connections",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/tools/workflow-builder/adding-connections/ai-providers",
+    "description": "Connect to various AI services to enhance your workflows with intelligent automation."
+  }
+}

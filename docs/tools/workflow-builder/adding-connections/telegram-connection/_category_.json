@@ -1,0 +1,8 @@
+{
+  "label": "📱 Telegram Connection",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/telegram-connection/index"
+  }
+}

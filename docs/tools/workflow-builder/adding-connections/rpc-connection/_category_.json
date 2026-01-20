@@ -1,0 +1,8 @@
+{
+  "label": "🔗 RPC Connection",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/rpc-connection/index"
+  }
+}

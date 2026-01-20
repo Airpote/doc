@@ -1,0 +1,8 @@
+{
+  "label": "General AI Connection",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/ai-providers/general-ai-connection/index"
+  }
+}
