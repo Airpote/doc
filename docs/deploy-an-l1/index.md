@@ -10,13 +10,13 @@ Visit our [pricing simulator](https://app.ami.finance/tools/l1) and you can also
 
 ## Managed L1 Hosting Packages
 
-| Nodes | 1 validator node | 5 validator nodes (package) |
-|-------|------------------|-----------------------------|
-| Validator specs | 3 CPUs / 7.7 GiB RAM / 1TB SSD | 3 CPUs / 7.7 GiB RAM / 1TB SSD per node |
-| Use Case | Basic L1 deployment | Production-ready with extras |
-| Price / mo | $200 | $399 (includes white label dapp, ICM-relayer, Tesseract bridge setup) |
+| Network | Nodes | Validator specs | Use Case | Price / mo |
+|---------|-------|-----------------|----------|------------|
+| Mainnet | 1 validator node | 3 CPUs / 8 GiB RAM / 1TB SSD | Basic L1 deployment | $200 |
+| Mainnet | 5 validator nodes (package) | 3 CPUs / 8 GiB RAM / 1TB SSD per node | Production-ready with extras | $399 (includes white label dapp, ICM-relayer, Tesseract bridge setup) |
+| Testnet | 1 validator node | 1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space | Testnet L1 deployment | $49 |
 
-Additional nodes: $49 each (1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space).
+Additional mainnet nodes: $49 each (1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space).
 
 ## Included Features
 
