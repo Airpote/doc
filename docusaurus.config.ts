@@ -51,6 +51,11 @@ const config: Config = {
 					label: 'Website',
 					position: 'right',
 				},
+				{
+					href: 'https://app.ami.finance',
+					label: 'App',
+					position: 'right',
+				},
 			],
 		},
 		footer: {
@@ -65,7 +70,7 @@ const config: Config = {
 						},
 						{
 							label: 'X',
-							href: 'https://twitter.com/amichain',
+							href: 'https://x.com/amichainORG',
 						},
 					],
 				},

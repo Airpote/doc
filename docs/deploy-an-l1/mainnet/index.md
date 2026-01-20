@@ -14,7 +14,7 @@ Our AmiChain Managed L1s offer provides a comprehensive solution for organizatio
 | Use Case | Basic L1 deployment | Production-ready with extras |
 | Price / mo | $200 | $399 (includes white label dapp, ICM-relayer, Tesseract bridge setup) |
 
-Additional nodes: $49 each.
+Additional nodes: $49 each (1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space).
 
 ## Included Features
 
@@ -43,7 +43,7 @@ Contact us to discuss your needs.
 | RAM | 7.7 GiB | Customizable | 16 GiB | Not specified |
 | Disk Space | 1TB | Customizable | 1TB SSD | Not specified |
 | Validators | 1 or 5 | Customizable | 5 | 5 |
-| Pricing (5 nodes) | $399 | $999+ (Builder tier) | $999 | $1995 ($995/year with 10k tx) |
+| Pricing (5 nodes) | $399 | $999+ (Builder tier) | $999 with Builder Credits (reg. $2999) | $1995 ($995/year with 10k tx) |
 | Additional Nodes | $49 | Included in tiers | On request | $149 |
 | Block Explorer | White label included | Custom | Blockscout | TraceHawk Growth Plan (Blockscout) |
 | Bridges | ICM-relayer + Tesseract setup | Interoperability tools | ICM bridge | Native Bridge (+$249/mo for ICM relayer) |
