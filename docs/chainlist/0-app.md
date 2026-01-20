@@ -6,8 +6,6 @@ import Button from '@site/src/components/Button'
 
 # App
 
-A list of EVM-based chains with icons and connection info. Visit [chainlist.amichain.org](https://chainlist.amichain.org/)
-
 Find and connect to EVM chains with your Wallet.
 
 <Button href="https://chainlist.amichain.org">chainlist.amichain.org</Button>
