@@ -43,7 +43,7 @@ Contact us to discuss your needs.
 | RAM | 7.7 GiB | Customizable | 16 GiB | Not specified |
 | Disk Space | 1TB | Customizable | 1TB SSD | Not specified |
 | Validators | 1 or 5 | Customizable | 5 | 5 |
-| Pricing (5 nodes) | $399 | $999+ (Builder tier) | $999 with Builder Credits (reg. $2999) | $1995 ($995/year with 10k tx) |
+| Pricing (5 nodes) | $399 | $999+ (Builder tier) | $999 with Builder Credits (reg. $2999) | $1995 ($995/mo with 10k tx) |
 | Additional Nodes | $49 | Included in tiers | On request | $149 |
 | Block Explorer | White label included | Custom | Blockscout | TraceHawk Growth Plan (Blockscout) |
 | Bridges | ICM-relayer + Tesseract setup | Interoperability tools | ICM bridge | Native Bridge (+$249/mo for ICM relayer) |
