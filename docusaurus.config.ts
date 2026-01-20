@@ -72,6 +72,14 @@ const config: Config = {
 							label: 'X',
 							href: 'https://x.com/amichainORG',
 						},
+						{
+							label: 'Telegram',
+							href: 'https://t.me/amichain',
+						},
+						{
+							label: 'Discord',
+							href: 'https://discord.com/invite/zxkTcFEE4U',
+						},
 					],
 				},
 			],
