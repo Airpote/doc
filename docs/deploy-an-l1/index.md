@@ -13,7 +13,7 @@ Visit our [pricing simulator](https://app.ami.finance/tools/l1) and you can also
 | Network | Nodes | Validator specs | Use Case | Price / mo |
 |---------|-------|-----------------|----------|------------|
 | Mainnet | 1 validator node | 3 CPUs / 8 GiB RAM / 1TB SSD | Basic L1 deployment | $200 |
-| Mainnet | 5 validator nodes (package) | 3 CPUs / 8 GiB RAM / 1TB SSD per node | Production-ready with extras | $399 (includes white label dapp, ICM-relayer, Tesseract bridge setup) |
+| Mainnet | 5 validator nodes (package) | 1 node: 3 CPUs / 8 GiB RAM / 1TB SSD; 4 nodes: 1 CPU / 2 GB RAM / 100 GB SSD | Production-ready with extras | **$399** (includes white label dapp, ICM-relayer, Tesseract bridge setup) |
 | Testnet | 1 validator node | 1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space | Testnet L1 deployment | $49 |
 
 Additional mainnet nodes: $49 each (1 CPU Intel Core Processor (Skylake, IBRS), 2 GB RAM, 100 GiB Disk Space).
