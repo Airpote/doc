@@ -14,4 +14,6 @@ Features include:
 
 ## [YouTube Tutorial Intro to our workflow builder](https://www.youtube.com/watch?v=RZui-M-5LRo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RZui-M-5LRo" title="Workflow Builder Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/RZui-M-5LRo" title="Workflow Builder Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>

@@ -9,6 +9,10 @@ Create automated trading tasks that execute buy and sell operations in single tr
 
 ## [YouTube Tutorials](https://www.youtube.com/watch?v=Yc7gJiR-QPs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yc7gJiR-QPs" title="Buy-Sell Tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/Yc7gJiR-QPs" title="Buy-Sell Tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dEPY_hteI8E" title="Buy-Sell Tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/dEPY_hteI8E" title="Buy-Sell Tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>

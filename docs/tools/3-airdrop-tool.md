@@ -9,4 +9,6 @@ Distribute tokens or NFTs to multiple recipients efficiently. Support for native
 
 ## [YouTube Tutorial](https://www.youtube.com/watch?v=sZ3gsRK4ODk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sZ3gsRK4ODk" title="Airdrop Tool Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/sZ3gsRK4ODk" title="Airdrop Tool Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
