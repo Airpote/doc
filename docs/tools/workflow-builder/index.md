@@ -12,6 +12,11 @@ Features include:
 - RPC Integration: On-chain data queries
 - Social Automation: Twitter and Telegram integration
 
+## Docs
+
+- [Action Types Inventory](/tools/workflow-builder/action-types)
+- [Adding Connections](/tools/workflow-builder/adding-connections)
+
 ## [YouTube Tutorial Intro to our workflow builder](https://www.youtube.com/watch?v=RZui-M-5LRo)
 
 <div class="video-container">

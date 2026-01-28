@@ -51,3 +51,24 @@ Contact us and we will deploy the contract to any chain for free!
 - Start and stop volume booster tasks.
 - Edit volume booster tasks.
 - Rename volume booster tasks.
+
+## Loop Fund (Wallet Groups)
+
+Loop Fund keeps volume tasks running by rotating funds across wallets in a **wallet group**.
+
+**Availability**
+- Only visible when the task source is a wallet group with multiple wallets.
+
+**UI**
+- **Active**: shows “Loop Fund” with a refresh icon and wallet index (e.g., Wallet 2/5).
+- **Disabled**: shows “Disabled” and “Click to enable”.
+
+**Behavior**
+- Runner checks all wallets’ native balances and picks the highest viable wallet (minimum 0.001 native).
+- After a successful transaction, it transfers nearly all remaining native balance to the next wallet in sequence.
+- Keeps a dust reserve (0.0001 native) + gas cost.
+- Updates `loopFundCurrentIndex` to the next wallet index.
+- If transfer fails, the task continues and retries next cycle.
+
+**Notes**
+- Loop Fund does not change task logic; it only optimizes funding between wallets.

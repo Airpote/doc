@@ -7,6 +7,17 @@ sidebar_custom_props:
 
 Create automated trading tasks that execute buy and sell operations in single transactions. Perfect for volume management and automated trading strategies.
 
+## Loop Fund Status
+
+If Loop Fund is active on the source **wallet group**, this page shows a read-only status card.
+
+**What you’ll see**
+- “Loop Fund” status with current wallet index (e.g., Wallet 2/5).
+
+**Notes**
+- Loop Fund is only available for wallet groups.
+- It does not change the task logic; it only rotates funds between wallets.
+
 ## [YouTube Tutorials](https://www.youtube.com/watch?v=Yc7gJiR-QPs)
 
 <div class="video-container">
