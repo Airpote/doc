@@ -64,6 +64,7 @@ Connections link external providers to Workflow Builder. Actions that require a 
 ### Payments
 - **Stripe** (`stripe`): `secretKey`* , `webhookSecret` optional
 - **PayPal** (`paypal`): `clientId`* , `clientSecret`* , `sandbox` optional
+- **x402** (`x402`): `apiKey`* , `webhookUrl` optional
 
 ### E-Commerce
 - **Shopify** (`shopify`): `shopDomain`* , `accessToken`*
