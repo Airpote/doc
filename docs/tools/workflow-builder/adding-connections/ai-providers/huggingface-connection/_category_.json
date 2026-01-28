@@ -1,0 +1,8 @@
+{
+  "label": "Hugging Face Connection",
+  "position": 7,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/ai-providers/huggingface-connection/index"
+  }
+}

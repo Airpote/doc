@@ -1,0 +1,9 @@
+{
+  "label": "🛠️ Developer Tools",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/tools/workflow-builder/adding-connections/developer-tools",
+    "description": "Connect to developer tools for code management and issue tracking."
+  }
+}

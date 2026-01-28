@@ -1,0 +1,8 @@
+{
+  "label": "DeepSeek Connection",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/ai-providers/deepseek-connection/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "☁️ Cloud & Storage",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "slug": "/tools/workflow-builder/adding-connections/cloud-storage",
+    "description": "Connect to cloud storage services for file management."
+  }
+}

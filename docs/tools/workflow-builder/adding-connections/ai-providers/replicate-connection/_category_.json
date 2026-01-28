@@ -1,0 +1,8 @@
+{
+  "label": "Replicate Connection",
+  "position": 6,
+  "link": {
+    "type": "doc",
+    "id": "tools/workflow-builder/adding-connections/ai-providers/replicate-connection/index"
+  }
+}

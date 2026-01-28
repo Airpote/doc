@@ -1,6 +1,6 @@
 {
   "label": "🐦 X (Twitter) Connection",
-  "position": 1,
+  "position": 20,
   "link": {
     "type": "doc",
     "id": "tools/workflow-builder/adding-connections/twitter-connection/index"

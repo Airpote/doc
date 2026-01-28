@@ -1,0 +1,9 @@
+{
+  "label": "🛒 E-Commerce",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "slug": "/tools/workflow-builder/adding-connections/ecommerce",
+    "description": "Connect to e-commerce platforms for order and product management."
+  }
+}

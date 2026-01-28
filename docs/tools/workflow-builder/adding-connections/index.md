@@ -83,3 +83,12 @@ Connections link external providers to Workflow Builder. Actions that require a 
 
 ### Webhooks
 - **Generic Webhook** (`webhook`): `url`* , `secret` optional, `headers` (JSON) optional
+---
+
+## Detailed Setup Guides
+
+Click on any category below for detailed setup instructions for each provider:
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />

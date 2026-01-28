@@ -1,0 +1,9 @@
+{
+  "label": "💳 Payments",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/tools/workflow-builder/adding-connections/payments",
+    "description": "Connect to payment processors for transactions and billing."
+  }
+}
