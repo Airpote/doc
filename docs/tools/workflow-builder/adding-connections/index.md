@@ -24,7 +24,7 @@ Connections link external providers to Workflow Builder. Actions that require a 
 
 ### Social & Messaging
 - **X/Twitter** (`twitter`): `apiKey`* , `apiSecret`* , `accessToken`* , `accessTokenSecret`*
-- **Telegram** (`telegram`): `botToken`*
+- **[Telegram](telegram-connection)** (`telegram`): `botToken`*
 - **Discord** (`discord`): `botToken`* (for triggers), `webhookUrl` optional
 - **Slack** (`slack`): `webhookUrl`* , `botToken` optional
 - **Microsoft Teams** (`teams`): `webhookUrl`*

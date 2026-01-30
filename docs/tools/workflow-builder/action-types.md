@@ -238,6 +238,10 @@ Outputs are named fields. Reference them in later steps using variables (for exa
 - **Outputs**: `output` (object/string).
 - **Example use-case**: Run a classifier on a text sample.
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/cQHIhfvFTO0" title="AI Actions Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
 ---
 
 ## Swap
@@ -597,6 +601,10 @@ Outputs are named fields. Reference them in later steps using variables (for exa
 - **Optional inputs**: `chatId` (auto-reply if triggered).
 - **Outputs**: `messageId`, `chatId`.
 - **Example use-case**: Send a price alert.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/ipqwyj6nKXY" title="Telegram Send Message Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ### Telegram Send Photo (`telegram:photo`)
 - **Purpose**: Send a photo.

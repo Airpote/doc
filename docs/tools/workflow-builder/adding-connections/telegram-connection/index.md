@@ -38,6 +38,10 @@ After creating the bot, you can set additional permissions:
 
 [YouTube Tutorial on How to add a telegram bot connection to our workflow builder](https://www.youtube.com/watch?v=RZui-M-5LRo)
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/RZui-M-5LRo" title="Telegram Connection Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
 ## Best Practices
 
 - Keep bot token secure (never share it)
