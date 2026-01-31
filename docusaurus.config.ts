@@ -87,6 +87,15 @@ const config: Config = {
 						},
 					],
 				},
+				{
+					title: 'Media Kit',
+					items: [
+						{
+							label: 'Download Assets',
+							href: 'https://drive.google.com/drive/folders/14rXwQBmZrlGUnkKYFfRX3tjSK9rOjLJS',
+						},
+					],
+				},
 			],
 		},
 		prism: {
