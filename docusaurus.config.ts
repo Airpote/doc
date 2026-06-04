@@ -7,7 +7,7 @@ const config: Config = {
 	tagline: 'Amichain documentation',
 	favicon: 'img/favicon.png',
 
-	url: 'https://doc.amichain.com',
+	url: 'https://docs.amichain.org',
 	baseUrl: '/',
 
 	onBrokenLinks: 'throw',
